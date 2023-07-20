@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishyrawr</h1>
-<h3 align="center">A Lua Developer from Thailand</h3>
+<h3 align="center">Mwah</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishyrawr&label=Profile%20views&color=0e75b6&style=flat" alt="rishyrawr" /> </p>
 
