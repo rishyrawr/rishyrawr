@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Tuyuware**
 
-- ⚡ Fun fact **Some believe that the tradition of birthday candles began in Ancient Greece, when people brought cakes adorned with lit candles to the temple of Artemis, goddess of the hunt. The candles were lit to make them glow like the moon, a popular symbol associated with Artemis.**
+- ⚡ Fun fact **Bacon was used to make explosives during World War II.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
