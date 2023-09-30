@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rishyrawr</h1>
+<h1 align="center">Hi 👋, I'm Rishy</h1>
 <h3 align="center">Mwah</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishyrawr&label=Profile%20views&color=0e75b6&style=flat" alt="rishyrawr" /> </p>
 
-- 🔭 I’m currently working on **Tuyuware**
+- 🔭 I’m currently working on **???**
 
 - 🌱 I’m currently learning **Lua**
 
-- 👯 I’m looking to collaborate on **Tuyuware**
+- 👯 I’m looking to collaborate on **???**
 
 - ⚡ Fun fact **Bacon was used to make explosives during World War II.**
 
